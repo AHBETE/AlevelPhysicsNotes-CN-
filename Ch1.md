@@ -94,7 +94,7 @@
 
 向量分解步骤大致如下图所示
 
-[图片]
+![图片](figure/vdecomposition.png)
 
 若向量 $\boldsymbol{v}$ 大小是 $v$, 和水平方向的夹角是 $\theta$, 则其水平分量是 $v\cos\theta$, 竖直分量是 $v\sin\theta$.
 
@@ -102,7 +102,7 @@
 
 向量的求和的可视化如下图所示
 
-[图片]
+![图片](figure/vector_addition.png)
 
 求和过程可以对各分量分别进行, 即: $\boldsymbol{a}+\boldsymbol{b}$ 
 
